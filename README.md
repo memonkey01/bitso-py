@@ -895,7 +895,7 @@ updates | List | List of (TradeUpdate or OrderUpdate) objects |
 
 **Minor** denotes fiat currencies such as Mexican Peso (MXN), etc
 
-An order book is always referred to in the API as "Major_Minor". For example: "btc_mxn"
+An order book is always referred to in the API as "Major_Minor". For example: "**btc_mxn**"
 
 
 # Licence #
